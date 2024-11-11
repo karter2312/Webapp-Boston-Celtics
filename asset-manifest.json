@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Webapp-Boston-Celtics/static/css/main.e67ed859.css",
+    "main.js": "/Webapp-Boston-Celtics/static/js/main.0fcb5afd.js",
+    "static/media/boston celtics.jpg": "/Webapp-Boston-Celtics/static/media/boston celtics.bad857375228ea5420a4.jpg",
+    "index.html": "/Webapp-Boston-Celtics/index.html",
+    "main.e67ed859.css.map": "/Webapp-Boston-Celtics/static/css/main.e67ed859.css.map",
+    "main.0fcb5afd.js.map": "/Webapp-Boston-Celtics/static/js/main.0fcb5afd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e67ed859.css",
+    "static/js/main.0fcb5afd.js"
+  ]
+}
