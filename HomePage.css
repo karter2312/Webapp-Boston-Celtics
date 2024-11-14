@@ -1,0 +1,80 @@
+
+body {
+  font-family: Arial, sans-serif;
+  background-image: url('../images/boston celtics.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.homepage-container {
+  width: 90%;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: rgba(255, 255, 255, 0.8);
+  border-radius: 8px;
+}
+
+.section-title {
+  font-size: 24px;
+  margin-bottom: 15px;
+  font-weight: bold;
+}
+
+.team-leaders, .player-stats {
+  margin-bottom: 40px;
+}
+
+.team-leaders .leader-card {
+  display: inline-block;
+  width: 20%;
+  text-align: center;
+  margin-right: 2%;
+  background: #f0f0f0;
+  padding: 15px;
+  border-radius: 8px;
+}
+
+.leader-card h2 {
+  margin: 10px 0;
+  font-size: 20px;
+  color: #333;
+}
+
+.leader-card p {
+  font-size: 16px;
+  color: #333;
+}
+
+.player-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.player-table th, .player-table td {
+  border: 1px solid #ddd;
+  padding: 10px;
+  text-align: left;
+}
+
+.player-table th {
+  background-color: #333;
+  color: white;
+}
+
+.select-button {
+  margin-top: 10px;
+}
+
+.select-button button {
+  margin-right: 5px;
+  padding: 5px 10px;
+  background-color: #333;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.select-button button:hover {
+  background-color: #555;
+}
